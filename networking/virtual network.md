@@ -1,0 +1,2 @@
+#incomplete #definition 
+A virtual network is a software-based abstraction that simulates a physical network, allowing computers and virtual machines to communicate over the internet or private infrastructure. It uses software like hypervisors or SDN controllers to logically route, switch, and segment traffic independently of the underlying hardware layout. This enables administrators to scale networks dynamically, isolate workloads for security, and manage infrastructure through code without re-cabling physical devices.

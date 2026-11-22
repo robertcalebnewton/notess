@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "632b98305b29b52d",
+    "type": "split",
+    "children": [
+      {
+        "id": "df773b39cc9efd6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0075624a8551f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "comptia A+/networking/subnet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "subnet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "932235653f42e203",
+    "type": "split",
+    "children": [
+      {
+        "id": "26ecb7f21b2f0759",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfb11d0741834809",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "52614b1f0c71ec4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ed64d63db15cfc84",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "098613544270eb56",
+    "type": "split",
+    "children": [
+      {
+        "id": "70e2598971b89971",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b1407a442d530b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dataStructs/binheap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for binheap"
+            }
+          },
+          {
+            "id": "55cf717a0bb67af4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dataStructs/binheap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from binheap"
+            }
+          },
+          {
+            "id": "a333ac3c926981b1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "c438821f8159f8c2",
+            "type": "leaf",
+            "state": {
+              "type": "chatbot-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "chatbot-view"
+            }
+          },
+          {
+            "id": "6bc76762743fa46b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c28df1a418554fb1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4c73f61acc49d87f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "comptia A+/networking/subnet.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of subnet"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c0075624a8551f86",
+  "lastOpenFiles": [
+    "design_patterns_cheatsheet/README.md",
+    "design_patterns_intro/README.md",
+    "comptia A+/networking/subnet.md",
+    "CompTIA_Aplus_Study_Notes.md",
+    "comptia A+/general.md",
+    "silakka54_user_manual.md",
+    "bashShortcuts.md",
+    "mine/learning embedded/computer arch/Interupts.md",
+    "webdev/SEO_Complete_Guide.md",
+    "comptia A+/windows",
+    "comptia A+/cloud",
+    "comptia A+/hardware",
+    "comptia A+/networking",
+    "comptia A+",
+    "C/C libs/curses_tutorial/README.md",
+    "C/notes/dataTypes.md",
+    "tool notes/nvchad.md",
+    "tool notes/bashShortcuts.md",
+    "SEO-Audit-Analysis.md",
+    "tool notes/cheat sheat.md",
+    "tool notes/ollama/intro.md",
+    "dataStructs/binheap.md",
+    "webdev",
+    "dataStructs",
+    "C/notes",
+    "C",
+    "Excalidraw/Drawing 2026-04-13 03.38.08.excalidraw.md",
+    "Excalidraw",
+    "BMO/Profiles/BMO.md",
+    "design_patterns_intro/java_multithreading/README.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "2026-04-12.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled.canvas",
+    "bigO/README.md",
+    "practice_problems.md",
+    "java/java_keywords/keywords.md"
+  ]
+}

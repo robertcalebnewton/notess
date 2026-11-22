@@ -1,0 +1,2 @@
+#definition #networking 
+a __collision domain__ is a physical network segment in which frames are transmitted simultaneously by two or more nodes that can collide. Corrupting the signals causing congestion, [[frames]] to drop and latency. 
