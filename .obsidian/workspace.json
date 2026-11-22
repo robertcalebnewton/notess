@@ -69,34 +69,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DHCP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DHCP"
-            }
-          },
-          {
-            "id": "7b807628f9ae9d8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "networking/subnetting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "subnetting"
-            }
-          },
-          {
-            "id": "b51b572fdb1cffd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "IPv6.md",
                 "mode": "source",
                 "source": false
@@ -106,42 +78,14 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
-        "id": "8f02dc159fd4910f",
+        "id": "6c5b3d047e968944",
         "type": "tabs",
         "children": [
           {
-            "id": "59b747a7508e7341",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "networking/VLAN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VLAN"
-            }
-          },
-          {
-            "id": "8433b7db3c94a6b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "networking/RSTP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RSTP"
-            }
-          },
-          {
-            "id": "5f41e5c43195209b",
+            "id": "58adbc4528ae23ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,19 +99,21 @@
             }
           },
           {
-            "id": "f45eee0795650d20",
+            "id": "10f43784014ccb0a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-11-21 16.46.15.excalidraw.md"
+                "file": "networking/subnetting.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-21 16.46.15.excalidraw"
+              "icon": "lucide-file",
+              "title": "subnetting"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 257.046875
   },
   "right": {
     "id": "098613544270eb56",
@@ -356,52 +302,53 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b51b572fdb1cffd3",
+  "active": "10f43784014ccb0a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-11-21 16.46.15.excalidraw.md",
-    "CCNA/overview.md",
-    "IPv6.md",
+    "networking/definitions/unicast.md",
     "networking/subnetting.md",
-    "Untitled 2.md",
-    "CCNA_Packet_Tracer_Labs.md",
-    "networking/definitions/collision domain.md",
-    "networking/RSTP.md",
-    "Unconfirmed 767387.crdownload",
-    "networking/STP.md",
-    "homeLab/openbsd-firewall-homelab-guide.md",
-    "homeLab/debian-docker-nginx-hardening-guide.md",
+    "networking/packets.md",
+    "networking/NAT.md",
+    "networking/OSPF.md",
+    "networking/IP.md",
+    "networking/Gateway.md",
+    "networking/frames.md",
+    "networking/Firewall.md",
+    "networking/DTP.md",
+    "networking/DNS.md",
+    "networking/DMZ.md",
     "networking/DHCP.md",
-    "networking/caleb",
-    "networking/networking/Gateway.md",
-    "networking/networking/definitions/unicast.md",
-    "networking/networking/definitions/datagrams.md",
-    "networking/networking/definitions/collision domain.md",
-    "networking/networking/definitions/broadcast.md",
-    "networking/networking/definitions/broadcast domain.md",
-    "networking/networking/definitions/Southbound API.md",
-    "networking/networking/definitions/ROAS.md",
-    "networking/networking/definitions/PDU.md",
-    "networking/networking/definitions/Northbound API.md",
-    "networking/networking/definitions/Multicast.md",
-    "networking/networking/definitions/Management Plane.md",
-    "networking/networking/definitions/LAN.md",
-    "networking/networking/definitions/Default Gateway.md",
-    "networking/networking/definitions",
+    "networking/CoS.md",
+    "networking/802.1Q.md",
+    "IPv6.md",
+    "CCNA/overview.md",
+    "tool notes/git/overveiw.md",
+    "networking/base conversion.md",
+    "CCNA/Cisco-IOS-CLI-Complete-Reference.md",
+    "CCNA/personal notes.md",
+    "CCNA/networking fundimentals.md",
+    "compsci/base conversion.md",
+    "textual_tui_tutorial.md",
+    "Untitled.md",
+    "networking/RSTP.md",
+    "vault of assets/Pasted image 20261121173237.png",
+    "vault of assets/Pasted image 20261121172956 1.png",
+    "vault of assets/Pasted image 20261121172956.png",
+    "vault of assets/Pasted image 20261121172653.png",
+    "vault of assets/Pasted image 20261121172517.png",
     "networking/networking",
+    "Unconfirmed 767387.crdownload",
+    "networking/caleb",
+    "networking/networking/definitions",
     "CCNA/test",
     "vault of assets/Pasted image 20261021174742.png",
     "vault of assets/Pasted image 20261021172044 1.png",
     "vault of assets/Pasted image 20261021172044.png",
     "vault of assets/Pasted image 20261021172032.png",
     "vault of assets/Pasted image 20260929143239.png",
-    "vault of assets/Pasted image 20260928201005.png",
-    "vault of assets/Pasted image 20260928173627.png",
-    "vault of assets/Pasted image 20260928173055.png",
-    "Pasted image 20260928172104.png",
-    "vault of assets/Pasted image 20260928161931.png",
     "Excalidraw/Drawing 2026-09-17",
     "Excalidraw/Drawing",
     "compsci",

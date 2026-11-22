@@ -3,6 +3,9 @@
 [practice](https://subnetting.org/)
 [practice](https://subnettingpractice.com/)
 
+> [!disclamer]
+> [[IPv6]] rules found elsewhere 
+
 A __subnet__ is a logical subset of an [[IP]] network. Dividing a network into one or more networks is known as subnetting. Computers that are of the same __subnet__ must be addressed with an identical group of [[most significant bits]] of there [[IP]] addresses. 
 
 __purpose__ 

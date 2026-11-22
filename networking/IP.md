@@ -29,8 +29,10 @@ __Internet protocol version 4__ is the most widely used system for identifying i
 - __HOST portion__ Identifies the specific device on a network 
 - __Network portion__ Identifies the specific network segment
 
-  
+> [! how IP's are assigned]
+>  IANA(Internet Assigend Numbers Authority) distributes __IPv4__ address space to various __RIR's__(Regional Internet Registries),  which assign them to the companies that need them often ISP's
 
+  
 >[!note]
 > __Finding the max hosts per network__ 
 $$2^n - 2$$
@@ -72,5 +74,3 @@ classful networkfing has been replaced by [[subnetting#CIDR|CIDR]]
 | Class E | 240.0.0.0 – 255.255.255.255 | N/A (reserved)      | N/A              | Experimental, not in use          |
 >[!warning]
 > `127.0.0.0/8` is reserved for loop back addresses 
-
-# IPv6 
